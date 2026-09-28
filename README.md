@@ -100,6 +100,3 @@ amr-surveillance-chatbot/
 
 European Centre for Disease Prevention and Control (ECDC), *Antimicrobial resistance in the EU/EEA (EARS-Net) – Annual Epidemiological Report 2024*. The PDF is downloaded from ECDC at run time and is not redistributed in this repository. Please follow ECDC's reuse terms.
 
-## License
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-MIT, see [NIGHAT](LICENSE).
