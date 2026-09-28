@@ -1,0 +1,14 @@
+# Python bytecode & environments
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+env/
+
+# Environment keys
+.env
+
+# Local Storage and PDF cache
+storage/
+data/*.pdf
+!data/.gitkeep
