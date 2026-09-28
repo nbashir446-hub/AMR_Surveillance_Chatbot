@@ -80,7 +80,6 @@ amr-surveillance-chatbot/
 │   └── ui.py              # Gradio interface
 ├── requirements.txt
 ├── .env.example
-└── docs/                  # screenshots
 ```
 
 ## 🛠️ Troubleshooting
