@@ -1,0 +1,8 @@
+llama-index-core>=0.10.0
+llama-index-llms-groq
+llama-index-readers-file
+llama-index-embeddings-huggingface
+huggingface_hub==0.34.4
+gradio>=6.3.0
+python-dotenv
+requests
